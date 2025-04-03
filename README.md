@@ -22,3 +22,5 @@
 Решение реализовано в Replit: 	[Борд](https://replit.com/@melnik3570/LR6?v=1)
 
 Для проверки работы маршрута /size2json было сделано через Insomnia, которое вывело результат маршрута
+
+![alt text](https://github.com/MelnikNO/comppracticelr6/blob/main/Снимок%20экрана%202025-04-03%20154558.png)
